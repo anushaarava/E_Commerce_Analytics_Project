@@ -1,16 +1,3 @@
-"""
-==================================================================
- E-COMMERCE ANALYTICS PROJECT — OLIST BRAZILIAN E-COMMERCE DATASET
-==================================================================
-Stage 1: Data Cleaning, Feature Engineering & Exploratory Analysis
-
-Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-Download the 9 CSVs and place them in a folder named `data/raw/`
-before running this script.
-
-Author: <your name>
-==================================================================
-"""
 
 import pandas as pd
 import numpy as np
